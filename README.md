@@ -99,3 +99,12 @@ Running `main.py` creates the `outputs` folder and saves:
 - Put the code and README in a public GitHub repository, but do not upload `.venv`.
 - Record a 4–5 minute video showing the program running and explaining the code. Add the video link here before submission.
 - Complete any separate course reflection or submission form required by the module.
+
+## Author
+
+Ogunleye Johnson
+
+## Repository
+
+GitHub repository:
+https://github.com/oluwajohnson/ecommerce_sales_analysis.git
